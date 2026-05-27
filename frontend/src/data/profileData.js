@@ -234,6 +234,59 @@ export const profileData = {
     { value: "5+", label: "Bidang Pengembangan" }
   ],
 
+  // Leadership & Organization Experience
+  leadershipExperiences: [
+    {
+      id: 1,
+      title: "Ketua OSIS",
+      organization: "SMAN 18 Garut",
+      category: "Kepemimpinan Sekolah",
+      badge: "Leadership",
+      period: "Sebelum Kuliah",
+      description: "Memimpin organisasi siswa di SMAN 18 Garut dan terlibat dalam perencanaan, koordinasi, serta pelaksanaan berbagai kegiatan kesiswaan. Pengalaman ini menjadi fondasi awal dalam membangun kemampuan kepemimpinan, komunikasi organisasi, pengambilan keputusan, dan tanggung jawab.",
+      highlights: [
+        "Kepemimpinan siswa",
+        "Koordinasi kegiatan",
+        "Komunikasi organisasi",
+        "Pengambilan keputusan",
+        "Tanggung jawab"
+      ]
+    },
+    {
+      id: 2,
+      title: "Ketua Departemen / Bidang Dakwah",
+      organization: "PHMA Universitas Siliwangi",
+      subOrganization: "Pengurus Harian Masjid Al-Muhajirin",
+      category: "Organisasi Kampus",
+      badge: "Organization",
+      period: "Saat Kuliah",
+      description: "Mengelola dan mengoordinasikan program dakwah di lingkungan PHMA Universitas Siliwangi, mencakup perencanaan kegiatan, pembinaan anggota, dan pelaksanaan program yang relevan dengan kebutuhan mahasiswa. Peran ini melatih kemampuan kepemimpinan berbasis nilai, manajemen kegiatan, dan pelayanan sosial-keagamaan.",
+      highlights: [
+        "Perencanaan program",
+        "Koordinasi tim",
+        "Komunikasi publik",
+        "Pembinaan anggota",
+        "Pelayanan sosial-keagamaan"
+      ]
+    },
+    {
+      id: 3,
+      title: "Presidium Sidang MUBES",
+      organization: "Rumah Diksi / KIP-K",
+      category: "Forum Organisasi",
+      badge: "Public Forum",
+      period: "Saat Kuliah",
+      description: "Berperan sebagai presidium sidang dalam Musyawarah Besar Rumah Diksi yang kemudian berubah nama menjadi KIP-K. Pengalaman ini melatih kemampuan memimpin forum, menjaga alur sidang, mengelola dinamika peserta, memahami tata tertib organisasi, dan mengambil keputusan secara terstruktur.",
+      highlights: [
+        "Kepemimpinan forum",
+        "Tata tertib sidang",
+        "Pengambilan keputusan",
+        "Manajemen diskusi",
+        "Komunikasi formal"
+      ]
+    }
+  ],
+
   // Social Links
   social: {
     instagram: "https://www.instagram.com/sekat.sejarah.singkat/",
