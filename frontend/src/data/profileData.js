@@ -193,7 +193,7 @@ export const profileData = {
         platform: "instagram",
         title: "Konten Sejarah di Instagram",
         description: "Carousel edukasi sejarah",
-        link: "https://www.instagram.com/p/DFuMz_Sy_-o/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+        link: "https://www.instagram.com/p/DFuMz_Sy_-o/"
       },
       {
         id: 2,
