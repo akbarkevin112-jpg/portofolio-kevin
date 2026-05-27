@@ -289,7 +289,8 @@ export const profileData = {
 
   // Social Links
   social: {
-    instagram: "https://www.instagram.com/sekat.sejarah.singkat/",
+    instagram: "https://www.instagram.com/maulana_kevin21/",
+    instagramSekat: "https://www.instagram.com/sekat.sejarah.singkat/",
     tiktok: "https://www.tiktok.com/@disinisekat",
     facebook: "https://facebook.com/sekatsejarahsingkat",
     youtube: "https://youtube.com/@sekatsejarahsingkat",
