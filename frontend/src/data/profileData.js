@@ -186,6 +186,43 @@ export const profileData = {
       "Tokoh sejarah",
       "Sejarah lokal dan budaya",
       "Caption edukatif"
+    ],
+    contentShowcase: [
+      {
+        id: 1,
+        platform: "instagram",
+        title: "Konten Sejarah di Instagram",
+        description: "Carousel edukasi sejarah",
+        link: "https://www.instagram.com/p/DFuMz_Sy_-o/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+      },
+      {
+        id: 2,
+        platform: "tiktok",
+        title: "Sejarah Singkat #1",
+        description: "Konten edukasi sejarah di TikTok",
+        link: "https://www.tiktok.com/@disinisekat/photo/7466105671981829381"
+      },
+      {
+        id: 3,
+        platform: "tiktok",
+        title: "Sejarah Singkat #2",
+        description: "Konten edukasi sejarah di TikTok",
+        link: "https://www.tiktok.com/@disinisekat/photo/7477072009143356677"
+      },
+      {
+        id: 4,
+        platform: "tiktok",
+        title: "Sejarah Singkat #3",
+        description: "Konten edukasi sejarah di TikTok",
+        link: "https://www.tiktok.com/@disinisekat/photo/7464212930293222661"
+      },
+      {
+        id: 5,
+        platform: "tiktok",
+        title: "Sejarah Singkat #4",
+        description: "Konten edukasi sejarah di TikTok",
+        link: "https://www.tiktok.com/@disinisekat/photo/7465962862976961797"
+      }
     ]
   },
 
