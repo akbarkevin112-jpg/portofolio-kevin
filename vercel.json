@@ -4,8 +4,8 @@
       "root": "frontend",
       "routePrefix": "/",
       "framework": "create-react-app",
-      "installCommand": "npm install --legacy-peer-deps",
-      "buildCommand": "npm run build"
+      "installCommand": "yarn install",
+      "buildCommand": "yarn build"
     }
   }
 }
